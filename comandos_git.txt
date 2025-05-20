@@ -1,8 +1,9 @@
-git status (mostra como está o diretório)
-git add (adiciona o que eu quero que vá para o commit)
-git commit -m "mensagem" (criando o checkpoint e colocando uma descrição para saber o que é aquele commit)
 git config --global user.email "email" (para assinar o email)
 git config --global user.name "nome"
 nano nome pasta.txt
+git init . (cria um repositório git vazio)
+git status (mostra como está o diretório)
+git add (adiciona o que eu quero que vá para o commit)
+git commit -m "mensagem" (criando o checkpoint e colocando uma descrição para saber o que é aquele commit)
 git log (vejo todos os commits e o histórico)
 git add . (adiciona todos os que estão para ser comitados)
