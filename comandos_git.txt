@@ -7,6 +7,9 @@ git add (adiciona o que eu quero que vá para o commit)
 git commit -m "mensagem" (criando o checkpoint e colocando uma descrição para saber o que é aquele commit)
 git log (vejo todos os commits e o histórico)
 git add . (adiciona todos os que estão para ser comitados)
+git diff <nome do arquivo> (mostra o que foi alterado)
+git diff . (mostra de todos os arquivos)
+git reset <nome do arquivo> (desfaz a entrada no commit)
 
 ## FLUXO DE TRABALHO
 1. criar diretório (pasta) do projeto
@@ -18,3 +21,4 @@ git add . (adiciona todos os que estão para ser comitados)
 7. git commit -m "mensagem"
 8. git status
 9. volta para o passo 3.
+
