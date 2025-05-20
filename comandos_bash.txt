@@ -1,0 +1,7 @@
+Comandos GIT:
+
+ls (lista o que tem no local/pasta)
+cd (muda o diretório/pasta)
+pwd (mostra o caminho absoluto de onde estou)
+ls -a (arquivos que começam com ponto; ./ e ../)
+mkdir (cria uma nova pasta)
