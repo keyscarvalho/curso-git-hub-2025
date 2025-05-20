@@ -5,5 +5,4 @@ git config --global user.email "email" (para assinar o email)
 git config --global user.name "nome"
 nano nome pasta.txt
 git log (vejo todos os commits e o histórico)
-
-
+git add .

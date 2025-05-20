@@ -8,3 +8,4 @@ mkdir (cria uma nova pasta)
 cat comandos (mostra o que tem dentro do arquivo)
 git init . (cria um repositório git vazio)
 rm -rf .git/ (apaga a pasta git sem pedir autorização)
+novos
