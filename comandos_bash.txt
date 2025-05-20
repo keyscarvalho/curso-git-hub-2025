@@ -8,9 +8,3 @@ mkdir (cria uma nova pasta)
 cat comandos (mostra o que tem dentro do arquivo)
 git init . (cria um repositório git vazio)
 rm -rf .git/ (apaga a pasta git sem pedir autorização)
-git status (mostra como está o diretório)
-git add (adiciona o que eu quero que vá para o commit)
-git commit -m "mensagem" (criando o checkpoint e colocando uma descrição para saber o que é aquele commit)
-git config --global user.email "email" (para assinar o email)
-git config --global user.name "nome"
-comandos git
