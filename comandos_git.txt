@@ -1,0 +1,7 @@
+git init.    -> cria um repositório git na pasta atual
+git status
+git add nome_arquivo
+git commit -m "mensagem"
+nano nome pasta.txt
+
+

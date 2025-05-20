@@ -13,3 +13,4 @@ git add (adiciona o que eu quero que vá para o commit)
 git commit -m "mensagem" (criando o checkpoint e colocando uma descrição para saber o que é aquele commit)
 git config --global user.email "email" (para assinar o email)
 git config --global user.name "nome"
+comandos git
