@@ -7,3 +7,4 @@ git merge <nome da branch> (traz as informações da branch secundária para a m
 
 - comandos mais genéricos
 - comandos estranhos
+- tudo daidoajfpaf
