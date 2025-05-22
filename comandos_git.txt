@@ -10,8 +10,7 @@ git add . (adiciona todos os que estão para ser comitados)
 git diff <nome do arquivo> (mostra o que foi alterado)
 git diff . (mostra de todos os arquivos)
 git reset <nome do arquivo> (desfaz a entrada no commit)
-git checkout -b <nome da branch> (cria uma nova branch; como se tivesse copiado o nosso projeto para uma nova pasta e agora está trabalhando em outra pasta)
-git branch (mostra em qual branch está)
+
 
 ## FLUXO DE TRABALHO
 1. criar diretório (pasta) do projeto
