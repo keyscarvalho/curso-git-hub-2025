@@ -1,7 +1,8 @@
 GIT FLOW
 
 - não trabalhar em cima da main, mas sim da develop
-
 - pull-request para develop
-
 - release para main 
+
+CONVENTION COMMIT
+-
