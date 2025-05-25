@@ -3,6 +3,7 @@ git push origin main
 touch README.md
 git pull origin main
 git clone <link do repositório fork>
+git fetch (traz as branchs do remoto para o local)
 
 Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
