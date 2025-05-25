@@ -5,4 +5,5 @@ GIT FLOW
 - release para main 
 
 CONVENTION COMMIT
--
+- no remoto SEMPRE terão pelo menos duas branchs, a main e a develop 
+
