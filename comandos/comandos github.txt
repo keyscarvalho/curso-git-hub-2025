@@ -4,6 +4,7 @@ touch README.md
 git pull origin main
 git clone <link do repositório fork>
 git fetch (traz as branchs do remoto para o local)
+.gitignore (o git ignora arquivos que não precisam ir para o repositório)
 
 Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
